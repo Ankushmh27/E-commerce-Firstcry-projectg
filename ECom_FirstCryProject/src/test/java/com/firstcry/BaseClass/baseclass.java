@@ -15,7 +15,7 @@ public class baseclass
 	@BeforeClass
 	public void setup() 
 	{
-		System.setProperty("", ""); 
+		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Ankush Mhala\\Desktop\\My Data\\E-commerce\\MyEcommerceProject\\ECom_FirstCryProject\\Driver\\chromedriver.exe");
 
 		//Creating an object of ChromeDriver
